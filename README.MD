@@ -23,6 +23,9 @@ Screenshot_2023-08-07-13-07-34-449_com.thirteen.TwPatch.jpg
 详细介绍及使用请看《免ROOT框架TweakMe介绍.docx》。
 
 
-
 免责声明：本框架为个人作品，任何他人的复制、拷贝、使用等，只可用于正常的技术交流与学习，不可用于灰黑产业，不可从事违法犯罪行为。否则，后果自负！！！
 
+
+
+
+#相关链接：https://bbs.binmt.cc/forum.php?mod=viewthread&tid=115979（已达两万浏览量上千用户量）
