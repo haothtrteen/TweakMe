@@ -28,4 +28,4 @@ Screenshot_2023-08-07-13-07-34-449_com.thirteen.TwPatch.jpg
 
 
 
-##相关链接：https://bbs.binmt.cc/forum.php?mod=viewthread&tid=115979（已达两万浏览量上千用户量）
+# 相关链接：https://bbs.binmt.cc/forum.php?mod=viewthread&tid=115979（已达两万浏览量上千用户量）
